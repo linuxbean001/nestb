@@ -6,7 +6,7 @@ class Header extends Component {
         return (
             <div>
                 <header id="header" className="App-header">
-                    {/* <Navbar inverse collapseOnSelect>
+                    <Navbar inverse collapseOnSelect>
                         <Navbar.Header>
                             <Navbar.Brand>
                                 <a className="navbar-brand" href="#hero_banner"><img src="images/logo.png" /></a>
@@ -21,7 +21,7 @@ class Header extends Component {
                                 <NavItem ><Scrollchor to="#contact_us" className="nav-link">Contact Us</Scrollchor></NavItem>
                             </Nav>
                         </Navbar.Collapse>
-                    </Navbar> */}
+                    </Navbar>
 
                 </header>
 
